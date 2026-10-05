@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Assistant",
+  "description": "A professional offline spelling and grammar checker powered by BK-Tree lookup, custom dictionaries, and rule-based grammar analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
